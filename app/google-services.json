@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553532547656",
+    "firebase_url": "https://facex-bc4cf.firebaseio.com",
+    "project_id": "facex-bc4cf",
+    "storage_bucket": "facex-bc4cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553532547656:android:b53089c2784ebbf59eae7d",
+        "android_client_info": {
+          "package_name": "com.e.facex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553532547656-9dflbfnevovgaucdr02cicojls7odf5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.facex",
+            "certificate_hash": "35f8a4dbac537b2560a7d1135d12d5db80d8283f"
+          }
+        },
+        {
+          "client_id": "553532547656-l0ulrm860q1u01khqdjrc913oouccnf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq0_pHm3eVb0L9cd42vYrObwUok-aSF5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553532547656-l0ulrm860q1u01khqdjrc913oouccnf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
